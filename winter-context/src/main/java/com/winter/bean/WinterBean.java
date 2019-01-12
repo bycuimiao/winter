@@ -1,7 +1,7 @@
 package com.winter.bean;
 
 /**
- * TODO completion javadoc.
+ * bean简单定义.
  *
  * @author cuimiao
  * @since 12 January 2019

@@ -9,7 +9,7 @@ import org.xml.sax.SAXException;
 import org.springframework.beans.factory.xml.PluggableSchemaResolver;
 
 /**
- * TODO completion javadoc.
+ * 处理xml需要的类，目前使用spring提供的方法实现.
  *
  * @author cuimiao
  * @since 12 January 2019

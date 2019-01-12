@@ -21,7 +21,7 @@ import org.springframework.core.io.Resource;
 import org.springframework.util.xml.SimpleSaxErrorHandler;
 
 /**
- * TODO completion javadoc.
+ * winter 引导启动类.
  *
  * @author cuimiao
  * @since 12 January 2019

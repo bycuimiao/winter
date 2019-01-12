@@ -6,7 +6,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import com.winter.bean.WinterBean;
 
 /**
- * TODO completion javadoc.
+ * 上下文，缓存被装载的bean(目前还不是单例).
  *
  * @author cuimiao
  * @since 12 January 2019
