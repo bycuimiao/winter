@@ -3,7 +3,7 @@ package com.winter.bean;
 /**
  * bean简单定义.
  *
- * @author cuimiao
+ * @author cuimiao123
  * @since 12 January 2019
  */
 public class WinterBean {
